@@ -8,7 +8,7 @@ The goal of this project is to apply statistical learning techniques to analyze 
 
 ## 📁 Contents
 
-- `SL_project_report.pdf` – Full report with methodology, results, and discussion
+- `full report.pdf` – Full report with methodology, results, and discussion
 - `code/` – R scripts used for data cleaning, modeling, and visualization
 - `presentation/` – Slides summarizing the project’s approach and main findings
 - `data/` – Cleaned dataset (labeled and cleaned)
